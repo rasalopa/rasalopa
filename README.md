@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello! I am Raúl, I am an application developer and web system administrator
+
 <!--
 **rasalopa/rasalopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
