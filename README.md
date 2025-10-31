@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hello! I am **Raúl**, an application developer and web system administrator with +15 years of experience.  
-I specialize in building **scalable microservices architectures**, designing **secure APIs**, and managing **cloud & infrastructure** environments.
+Hello! I am **Raúl**, an application developer and web system administrator.  
 
 ---
 
@@ -15,7 +14,6 @@ I specialize in building **scalable microservices architectures**, designing **s
 ---
 
 ### 👯 I’m looking to collaborate on
-- Open-source projects related to **microservices, security, or geospatial data**  
 - Innovative ideas involving **AI** or **real-time communication systems**  
 - Collaborating with **remote teams** around the world 🌍  
 
