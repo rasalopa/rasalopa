@@ -23,15 +23,8 @@ Hello! I am **Raúl**, an application developer and web system administrator.
 - Improving my **English fluency** for tech and casual conversations  
 - Deepening my knowledge in **LLMs & AI applications**
 - Frontend tools and frameworks like **Angular** and **Vue**
-- Exploring **game development** as a side hobby 🎮  
-
----
-
-### 💬 Ask me about
-- Designing **scalable architectures**  
-- **Backend-first development** with solid infrastructure  
-- Migrating legacy systems to **modern, cloud-native solutions**  
-
+- Exploring **game development** as a side hobby 🎮
+  
 ---
 
 ### 📫 How to reach me
