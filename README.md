@@ -7,7 +7,7 @@ end to end — schema to UI — and side projects that mix AI with a little hard
 
 - 🛒 **[Marketly](https://marketly.rasalopa.dev)** — AI-powered local marketplace: chat, payments and logistics
 - 🚖 **[CityTrip](https://citytrip.ad)** — Secure ride-hailing platform
-- 🛡 **[VibeGuard](https://vibeguard.qodexia.mx)** — Security scanning for AI-generated codebases
+- 🛡 **[VibeGuard](https://vibeguard.qodexia.mx)** — Web security auditing platform: 19 scan engines, compliance verdicts and a remediation workflow
 - 🎮 **[PicoDex](https://github.com/rasalopa/picodex)** — Manage a Nintendo DS flashcart from the browser · [try it](https://rasalopa.github.io/picodex/)
 - 🕹 **[Pico Launcher Enhanced](https://github.com/rasalopa/pico-launcher-enhanced)** — DS homebrew launcher, rewritten in C with favorites and play stats
 
