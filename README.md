@@ -1,37 +1,30 @@
-### Hi there 👋
+# Hi, I'm Raúl 👋
 
-Hello! I am **Raúl**, an application developer and web system administrator.  
+Full-stack engineer with 15+ years building scalable systems. I like shipping products
+end to end — schema to UI — and side projects that mix AI with a little hardware hacking.
 
----
+## ⭐ Featured projects
 
-### 🔧 Technologies & Tools
-- **Languages**: TypeScript, JavaScript, PHP, SQL, Bash
-- **Frameworks**: NestJS, Angular, Laravel, Next.js
-- **Databases**: PostgreSQL, MySQL, Redis
-- **DevOps**: Docker, Kubernetes, Nginx, CI/CD
-- **Other**: Geospatial systems, Authentication & Security, Real-time apps
+- 🛒 **[Marketly](https://marketly.rasalopa.dev)** — AI-powered local marketplace: chat, payments and logistics
+- 🚖 **[CityTrip](https://citytrip.ad)** — Secure ride-hailing platform
+- 🛡 **[VibeGuard](https://vibeguard.qodexia.mx)** — Security scanning for AI-generated codebases
+- 🎮 **[PicoDex](https://github.com/rasalopa/picodex)** — Manage a Nintendo DS flashcart from the browser · [try it](https://rasalopa.github.io/picodex/)
+- 🕹 **[Pico Launcher Enhanced](https://github.com/rasalopa/pico-launcher-enhanced)** — DS homebrew launcher, rewritten in C with favorites and play stats
 
----
+## 💻 Main stack
 
-### 👯 I’m looking to collaborate on
-- Innovative ideas involving **AI** or **real-time communication systems**  
-- Collaborating with **remote teams** around the world 🌍  
+`TypeScript` · `Next.js` · `React` · `NestJS` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `AWS`
 
----
+## 🚀 Currently
 
-### 🌱 Currently learning
-- Improving my **English fluency** for tech and casual conversations  
-- Deepening my knowledge in **LLMs & AI applications**
-- Frontend tools and frameworks like **Angular** and **Vue**
-- Exploring **game development** as a side hobby 🎮
-  
----
+- Hardening production systems: auth, payments and security audits
+- Going deeper on LLMs and AI agents
+- Tinkering with Nintendo DS homebrew and embedded development
+- Exploring game development as a side hobby 🎮
+- Improving my English fluency for tech and casual conversations
 
-### 📫 How to reach me
-- Portfolio: [rasalopa.dev](https://rasalopa.dev)  
-- Email: raul.lopez.palomera@gmail.com  
+## 🤝 Open to collaborate
 
----
+Full-stack products, AI tooling, game development and open source.
 
-### ⚡ Fun fact
-When I’m not coding, I enjoy learning new tech trends, exploring AI, and sometimes diving into the world of video games 🎮  
+🌐 [rasalopa.dev](https://rasalopa.dev) · ✉️ [raul.lopez.palomera@gmail.com](mailto:raul.lopez.palomera@gmail.com)
