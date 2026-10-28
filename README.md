@@ -1,3 +1,3 @@
 # Hi, I'm Raúl 👋
 
-Full-stack engineer. I build products end to end — schema to UI. I love building with other people.
+Fullstack engineer. I build products end to end, schema to UI. I love building with other people.
